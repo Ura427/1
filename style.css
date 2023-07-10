@@ -51,10 +51,7 @@ body{
     color: #fcfdfa;
     font-size: 3rem;
     margin: 0px;
-    /* flex:1; */
     padding-top: 30px;
-    /* line-height: 150px; */
-
 }
 
 .main-flex__left--result--text{
@@ -71,28 +68,20 @@ body{
     color: #c1b7fb;
     padding: 0px 30px;
     text-align: center;
-    /* margin-top: 0; */
 }
 
 .main-flex__right{
-    /* background-color: #fff; */
-    /* flex: 1; */
     display: flex;
     flex-direction: column;
     min-width: 50%;
     margin-left: 5%;
-    
-    /* height:100%; */
 }
 
 .main-flex__right--container{
-    /* background-color: red; */
     display: flex;
     height: 60%;
     flex-direction: column;
     justify-content:space-around;
-    /* margin-bottom: 2rem; */
-    /* align-items:center; */
 }
 
 .card-container{
@@ -108,7 +97,6 @@ body{
 }
 
 .card-container__result{
-    /* display: block; */
     white-space: nowrap;
 }
 
